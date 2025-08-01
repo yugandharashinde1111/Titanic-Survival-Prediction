@@ -46,3 +46,9 @@ It includes **Exploratory Data Analysis (EDA)**, **feature engineering**, and **
 - Add Random Forest / XGBoost models
 - Hyperparameter tuning
 - Deploy model using Flask or Streamlit
+
+  ---
+
+## 🙏 Credits & Inspiration
+
+This project was inspired by the Titanic Survival Prediction challenge on [Kaggle](https://www.kaggle.com/c/titanic) and various publicly available notebooks shared by the Kaggle community. Some code ideas were adapted and restructured for learning purposes.
